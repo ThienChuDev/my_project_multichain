@@ -1,0 +1,21 @@
+{
+  "name": "controlpanelblockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tauri": "tauri",
+    "tauri dev": "tauri dev",
+    "tauri build": "tauri build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.13"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.0.3"
+  }
+}
